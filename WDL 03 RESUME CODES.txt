@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+ <body>
+ <h1 align="center">RESUME</h1>
+ <hr>
+ <img src="C:\Users\Pranay\Documents\ppsr\4b083ad1-6028-4b0e-9d25-
+3873599eb5f4.jpg" height="200" align="right">
+ <h1><b>Pranay Borikar</b></h1>
+ <h3>Artificial Intelligence & Data Science</h3>
+ <h3>9359955426</h3>
+ <h3><a
+href="pranayb.aids22@sbjit.edu.in">pranayb.aids22@sbjit.edu.in</a></h3>
+ <hr>
+ <h2><b>CAREER OBJECTIVE</b></h2>
+ <h4>A strong believer in strength to attain a sound position of
+responsibility in a dynamic
+ organization where I can enhance my skills and knowledge for
+contributing towards the growth
+ of organization to achieve its terminal goals and the aesthetics
+as well as functionality rooted
+ contextual and cultural aspects of organization.</h4>
+ <hr>
+ <h2 Align="left">EDUCATION QUALIFICATION</h2>
+ <h4>Specialization: -Artificial Intelligence & Data Science
+Engineering</h4>
+ <table border="3" cellspacing="0">
+ <tr>
+ <td height="50" width="100">Exam/Degree</td>
+ <td height="50" width="100">University/Board</td>
+ <td height="50" width="100">Year of Joining</td>
+ <td height="50" width="100">Year of Passing</td>
+ <td height="50" width="100">Collage/School</td>
+ <td height="50" width="100">Percentage<br>(%)</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">S.S.C</td>
+ <td height="50" width="100">Maharashtra state Board</td>
+ <td height="50" width="100">2019</td>
+ <td height="50" width="100">2020</td>
+ <td height="50" width="100">Hadas High School</td>
+ <td height="50" width="100">86.41</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">H.S.C<br>(Science stream)</td>
+ <td height="50" width="100">Maharashtra state Board</td>
+ <td height="50" width="100">2021</td>
+ <td height="50" width="100">2022</td>
+ <td height="50" width="100">Hadas Junior Collage</td>
+ <td height="50" width="100">70.16</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">B.Tech</td>
+ <td height="50" width="100">R.T.M Nagpur University</td>
+ <td height="50" width="100">2022</td>
+ <td height="50" width="100">Pursuing..</td>
+ <td height="50" width="100">S.B.J.I.T.M.R.Nagpur</td>
+ <td height="50" width="100">First Semester 7.84</td>
+ </tr>
+ </table>
+ <h2>INTEREST</h2>
+ <ul>
+ <li>Painting</li>
+ <li>Karate</li>
+ <li>Volleyball</li>
+ <li>Travelling</li>
+ </ul>
+ <h2>PERSONAL DETAILS</h2>
+ <table height="100" width="300" border="3" cellspacing="0">
+ <tr>
+ <td height="50" width="100">Name</td>
+ <td height="50" width="100">Pranay Borikar</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">Father's Name</td>
+ <td height="50" width="100">Rajendra Borikar</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">Mother's Name</td>
+ <td height="50" width="100">Sangeeta Borikar</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">Date of Birth</td>
+ <td height="50" width="100">12/08/2004</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">Gender</td>
+ <td height="50" width="100">Male</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">Marital status</td>
+ <td height="50" width="100">Single</td>
+ </tr>
+ <tr>
+ <td height="50" width="100">Address</td>
+ <td height="50" width="100">New Futala Amaravti Road Nagpur
+Galli No.06</td>
+ </tr>
+ </table>
+ <h2>DECLARATION</h2>
+ <h4>I hereby declare that the above written particulars are true to
+best of my knowledge and belief.</h4>
+ <br<br><br>
+ <h4>Date:</h4>
+ <h4>Place:</h4> <h4 align="right">Pranay Borikar</h4>
+ </body>
+</html>
