@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <title>Tribute Page</title>
+            <meta name="description" content="">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet">
+        </head>
+        <style>
+            h1{
+                text-align: center;
+                color: rgb(254, 248, 248);
+            }
+            img{
+                padding: 1px;
+                border: 4px solid white;
+            }
+            h2{
+                text-align: center;
+                color: white;
+                font-style: italic;
+                font-size: medium;
+            }
+            p{
+                text-align: center;
+                color: white;
+                font-size: large;
+                font-family: 'Times New Roman', Times, serif;
+            }
+        </style>
+        <body background="C:\Users\Pranay\Documents\ppsr\s2.jpg">
+        <h1>CHHATRAPATI  SHIVAJI  MAHARAJ</h1>
+        <h2>Founder Of The Maratha Kingdom</h2>
+        <center><img src="C:\Users\Pranay\Pictures\aebd9e07d468b9ef6e4d24f5f1e7b6db.jpg" height="400"></center>
+        <p>Chhatrapati Shivaji Maharaj (February 19, 1627 – April 3, 1680)<br>
+            Chhatrapati Shivaji Maharaj, was an Indian ruler and a member of the Bhonsle Maratha clan.<br>
+            Shivaji carved out his own independent kingdom from the declining Adilshahi sultanate of Bijapur 
+            which formed the genesis of the Maratha Empire.<br>In 1674, he was formally crowned the Chhatrapati 
+            of his realm at Raigad Fort.Over the course of his life, Shivaji engaged in both alliances and 
+            hostilities with the Mughal Empire, the Sultanate of Golkonda, Sultanate of Bijapur and the European 
+            colonial powers. Shivaji's military forces expanded the Maratha sphere of influence, capturing and 
+            building forts, and forming a Maratha navy. Shivaji established a competent and progressive civil rule 
+            with well-structured administrative organisations. He revived ancient Hindu political traditions, 
+            court conventions and promoted the usage of the Marathi and Sanskrit languages, replacing Persian 
+            in court and administration. Shivaji's legacy was to vary by observer and time, but nearly two centuries 
+            after his death, he began to take on increased importance with the emergence of the Indian independence 
+            movement, as many Indian nationalists elevated him as a proto-nationalist and hero of the Hindus.</p>
+        </body>
+    </html>
