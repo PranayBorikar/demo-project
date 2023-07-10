@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body background="C:\Users\Pranay\Documents\ppsr\invitation card.jpg" ></body>
+<br><br><br><br><br><br><br>
+<style>
+p {
+font-family: 'Times New Roman', Times, serif;
+}
+</style>
+<h1><p style="color:goldenrod" Align="center" > Wedding Invitation</p></h1>
+<hr width="100">
+<h3><p style="color:lightyellow" Align="center"> We should be delighted with<br>Your attendance at the wedding of </p></h3>
+<h1 style="color:skyblue" Align="center">Sujata Patel</h1>
+<h3><p style="color:lightyellow" Align="center"> D/O Manshi & Jayesh Patel</p></h3>
+<pre> <img src="C:\Users\Pranay\Documents\ppsr\wedding.png" height="50" Align="center"></pre>
+<h1 style="color:skyblue" Align="center">Sameer Ambani</h1>
+<h3><p style="color:lightyellow" Align="center"> S/O Atul & laxmi Ambani</p></h3>
+<hr width="100">
+<h3><p style="color:lightyellow" Align="center">Sunday, May 13th,2003<br>7:30 pm to Midnight</p></h3><hr width="100">
+<h1 style="color:skyblue" Align="center">Venue</h1>
+<h3><p style="color:lightyellow" Align="center">The Taj Palace, Mumbai<br>Nr.Surrey, Road, Line 2</p></h3></body>
+</html>
