@@ -1,0 +1,210 @@
+home:
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Document</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="home.html">
+    </head>
+
+    <style>
+        center{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: large;
+            text-align: center;
+        }
+    </style>
+    <body bgcolor="skyblue">
+
+        <table border="0" Align="center" cellspacing="110">
+
+        <tr>
+            
+        <td align="center" height="50" width="100">
+        <a href="car.html"><h1>CARS</h1>
+        <img src="C:\Users\Pranay\Pictures\car.jpg" height="100"></a>
+        </td>
+
+        <td align="center" height="50" width="100">
+        <a href="animal.html"><h1>ANIMALS</h1>
+        <img src="C:\Users\Pranay\Pictures\images.jpg" height="100"></a>
+        </td>
+
+        <td align="center" height="50" width="100">
+        <a href="plant.html"><h1>PLANTS</h1>
+        <img src="C:\Users\Pranay\Pictures\images (8).jpg" height="100"></a>
+        </td>
+
+        </tr>
+        </table>
+    </body>
+</html>
+
+
+
+
+CAR:
+
+<!DOCTYPE html>
+<html>
+<body bgcolor="lightblue">
+        <table border="0" Align="center" cellspacing="110">
+        <tr>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0010.jpg" height="100">
+        </td>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0011.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0012.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0013.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0014.jpg" height="100">
+        </td>
+        </tr>
+
+        <tr>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0015.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0016.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0017.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0020.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\IMG-20230605-WA0022.jpg" height="100">
+        </td>
+        </tr>
+        </table>
+        <center><a href="home.html">Back</a></center>
+    </body>
+</html>
+
+
+
+ANIMAL:
+
+<!DOCTYPE html>
+<html>
+<body bgcolor="lightgreen">
+        <table border="0" Align="center" cellspacing="110">
+        <tr>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (1).jpg" height="100">
+        </td>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (2).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (3).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (4).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (5).jpg" height="100">
+        </td>
+        </tr>
+
+        <tr>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (6).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (7).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download.jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (1).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (2).jpg" height="100">  
+        </td>
+        </tr>
+        </table>
+        <center><a href="home.html">Back</a></center>
+    </body>
+</html>
+
+
+
+PLANT:
+
+<!DOCTYPE html>
+<html>
+<body bgcolor="silver">
+        <table border="0" Align="center" cellspacing="110">
+        <tr>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (8).jpg" height="100">
+        </td>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\download (9).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (4).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (5).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (6).jpg" height="100">
+        </td>
+        </tr>
+        
+        <tr>
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (7).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (8).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (9).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (10).jpg" height="100">
+        </td>
+
+        <td align="center" height="50" width="100">
+            <img src="C:\Users\Pranay\Pictures\images (11).jpg" height="100">
+        </td>
+        </tr>
+        </table>
+        <center><a href="home.html">Back</a></center>
+    </body>
+</html>
