@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <body background="C:\Users\Pranay\Documents\web development\web development\where-to-donate-books-1280x720.jpg">
+    <h1>Registration Form</h1>
+    <h3>user information</h3>
+    <label>Enter your full name</label><br>
+    <input type="text" name="text"><br>
+
+    <label>Enter your Email i'd</label><br>
+    <input type="email" name="email"><br>
+
+    <label>Enter your phone no.</label><br>
+    <input type="number" name="number"><br>
+
+    <label>Enter your password</label><br>
+    <input type="password" name="password"><br>
+
+    <label>Enter confirm your password</label><br>
+    <input type="password" name="password"><br>
+    
+    <label>select your gender</label><br>
+    <input type="radio" name="radio">male<br>
+    <input type="radio" name="radio">female<br>
+    <input type="radio" name="radio">others<br>
+    
+    <label>Enter your address</label><br>
+    <textarea></textarea><br><br>
+    <input type="submit" value="sign-in">
+</body>
+</html>
